@@ -1,6 +1,8 @@
 # Redis Cache
 
-A simple Redis cache project.
+A simple Redis cache project w/ Node.js and Docker
+
+Rick and morty api -> https://rickandmortyapi.com/
 
 ## Installation
 
