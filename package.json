@@ -1,0 +1,19 @@
+{
+  "name": "redis-cache",
+  "version": "1.0.0",
+  "description": "A simple Redis cache project with node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "redis": "^4.7.0",
+    "response-time": "^2.3.3"
+  }
+}
